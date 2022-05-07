@@ -1,0 +1,4 @@
+export enum StoreActionType {
+    FETCH_ALL_PRODUCTS = 'FETCH_ALL_PRODUCTS',
+    SAVE_PRODUCTS = 'SAVE_PRODUCTS',
+}
